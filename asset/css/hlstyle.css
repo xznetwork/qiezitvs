@@ -1,5 +1,5 @@
 @charset "utf-8";
-/*! Email 362695000@qq.com */
+/*! Email 1446342488@qq.com */
 /* all */
 html{height: 100%;}
 body{margin: 0; background:#fff; font-family:Helvetica,Arial,PingFangSC-Regular,Microsoft Yahei,sans-serif; font-size:0.35rem; line-height: 140%; color: #666;-webkit-text-size-adjust: none;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
@@ -169,7 +169,7 @@ body.bstem{padding-top: 0;}
 .swiper-wrapper{-webkit-transform: translate3d(0,0,0); -moz-transform: translate3d(0,0,0); -o-transform: translate(0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0)}
 .swiper-slide{-webkit-flex-shrink: 0; -ms-flex: 0 0 auto; flex-shrink: 0; width: 100%; height: 100%; position: relative;}
 .banner-arrow,.showbtn{display: none;}
-.swiper-button-next,.swiper-button-prev,.author.qq362695000{position: absolute; top: 50%; width: 1.2rem; height: 1.2rem; margin-top: -0.6rem;z-index: 99;text-align: center; line-height: 1.2rem;font-size: 0.45rem;color: #fff!important;background:rgba(0, 0, 0, 0.4);}
+.swiper-button-next,.swiper-button-prev,.author.qq1446342488{position: absolute; top: 50%; width: 1.2rem; height: 1.2rem; margin-top: -0.6rem;z-index: 99;text-align: center; line-height: 1.2rem;font-size: 0.45rem;color: #fff!important;background:rgba(0, 0, 0, 0.4);}
 a:hover.swiper-button-next,a:hover.swiper-button-prev{color: #fff;background:#ff5f00;}
 .swiper-button-next{right: 0; left: auto}
 .swiper-button-prev{left: 0; right: auto}
@@ -683,7 +683,7 @@ a.actor_part:hover{color: #fff; background: #ff5f00;border: 1px solid #ff5f00;}
 .right_row{width: 30%;}
 .fl{float: left;}
 .fr{float: right;}
-.hide,.hidden_mb,.bk_btn,.se_btn,.hd_tit,.mac_pop span.pop_close,.author.qq362695000,.comment_report,.comment_report_child,.part_rows_fa .smt,.list_v5 li.num_6,.list_v10 li.num_11,.list_v10 li.num_12,.head_logo .logo_w,.bstem .head_logo .logo_b,.bstem .head_box.nav_top .head_logo .logo_w,.nav_list li a i{display: none!important;}
+.hide,.hidden_mb,.bk_btn,.se_btn,.hd_tit,.mac_pop span.pop_close,.author.qq1446342488,.comment_report,.comment_report_child,.part_rows_fa .smt,.list_v5 li.num_6,.list_v10 li.num_11,.list_v10 li.num_12,.head_logo .logo_w,.bstem .head_logo .logo_b,.bstem .head_box.nav_top .head_logo .logo_w,.nav_list li a i{display: none!important;}
 .show,.comm_each:hover .comment_report,.comm_reply_child:hover .comment_report_child,.part_rows_fa .smt.smt_hidn,.head_logo .logo_b,.bstem .head_logo .logo_w,.bstem .head_box.nav_top .head_logo .logo_b{display: block!important;}
 .pa_right{padding-right: 1rem;}
 .pa_left{padding-left: 1rem;}

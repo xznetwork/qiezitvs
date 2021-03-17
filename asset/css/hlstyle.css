@@ -607,7 +607,7 @@ a.actor_part:hover{color: #fff; background: #ff5f00;border: 1px solid #ff5f00;}
 .show_no{text-align: center; padding: 1rem 0.5rem; background: #f8f8f8; border-radius: 4px;}
 
 /* ads */
-.ads.ads_w{max-height: 2.5rem;}
+.ads.ads_w{/*max-height: 2.5rem;*/}
 .ads {width: 100%;display: block;overflow: hidden;background: #f8f8f8;border-radius: 4px;text-align: center;}
 .ads img{width: 100%;}
 .right_ads {display: block;overflow: hidden;max-width: 100%;max-height: 8rem;text-align: center;}
